@@ -67,4 +67,19 @@ int register_all_pluginx_protocols(lua_State* tolua_S);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #endif // __pluginx_protocols_h__
